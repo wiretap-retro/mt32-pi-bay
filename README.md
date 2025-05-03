@@ -3,7 +3,8 @@ A 5.25" bay panel overlay to control the mt32-pi.
 \
 \
 ![front](front.png)
-
+\
+![front2](front-real.png)
 ## Info
 The core project design is attributed to Dale Whinham and his awesome mt32-pi project. Repo link: https://github.com/dwhinham/mt32-pi
 \
