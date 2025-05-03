@@ -27,10 +27,11 @@ Please read the original mt32-pi repository linked in the information section fo
 - First solder all the components to the board. To keep the screen low-profile, no pin header socket should be used.
 - Solder your wire pigtails to the DIN connector and 3.5mm connector.
 - Next, insert the DIN and 3.5mm receptacles into the panel and secure them with the lock nuts.
-- Test fit the assembled PCB to the StarTech bay adapter. If there are any interfernces, trim the bay adapter face with side cutters, a dremel or other cutting tool.
-- Smear a thin layer of silicone caulk on the bay panel face.
-- Set the PCB onto the wet caulk and apply a small amount of force to allow the caulk to adhere. Align it with the edges.
-- Allow a dry time of 24hrs so it fully cures to the bay adapter. You may want to use small rubberized clamps to assist with the holding force during the cure time.
+- Test fit the assembled PCB to the StarTech bay adapter. There are going to be slight interferences from the solder fillets sticking out. Trim the bay adapter with a rotary tool or your preferred cutting method. 
+- Clean the StarTech bay panel face and rear side of the PCB with isopropyl alcohol.
+- Smear a thin layer of silicone caulk on the StarTech bay panel face.
+- Set the PCB onto the bay panel face and apply a small amount of force to allow the caulk to spread and adhere. Shift it around to align it with the edges if necessary. 
+- Allow a dry time of 24hrs so the PCB fully cures to the bay adapter face.
 - Mount your mt32-pi into the StarTech bay adapter and connect the 2.54mm pitch DuPont connectors to the panel header.
 
 ## License
