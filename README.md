@@ -18,7 +18,7 @@ I have included the full KiCad project along with the Mouser Cart, BOM, and Gerb
 This is designed for use with my mt32-pi-zero-breakout project found here: https://github.com/wiretap-retro/mt32-pi-zero-breakout/
 
 ## Parts
-The parts in the BOM and Mouser Cart are for building a blue illuminated unit. You can easily choose other colors, however you will need to change the resistors to different values since the forward voltage of the LED will be different. Regardless, you should calculate the LED resistors for your desired current/brightness based on the product datasheet curves. The BOM as-is makes the buttons look great, however the power LED is a little bright and could use a slightly higher resistor value.
+The parts in the BOM and Mouser Cart are for building a blue illuminated unit. You can choose other color illuminated components, however you will need to change the resistors to different values since the forward voltage of the LED will be different. Regardless, you should calculate the LED resistors for your desired current/brightness based on the product datasheet curves. The BOM as-is makes the buttons look great, however the power LED is a little bright and could use a slightly higher resistor value.
 \
 \
 Please read the original mt32-pi repository linked in the information section for compatibility of parts if you fork the design or deviate from the chosen parts.
