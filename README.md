@@ -16,6 +16,9 @@ I have included the full KiCad project along with the Mouser Cart, BOM, and Gerb
 \
 \
 This is designed for use with my mt32-pi-zero-breakout project found here: https://github.com/wiretap-retro/mt32-pi-zero-breakout/
+\
+\
+Both the breakout board and 5.25 bay are 100% tested and functional. 
 
 ## Parts
 The parts in the BOM and Mouser Cart are for building a blue illuminated unit. You can choose other color illuminated components, however you will need to change the resistors to different values since the forward voltage of the LED will be different. Regardless, you should calculate the LED resistors for your desired current/brightness based on the product datasheet curves. The BOM as-is makes the buttons look great, however the power LED is a little bright and could use a slightly higher resistor value.
@@ -35,7 +38,7 @@ Please read the original mt32-pi repository linked in the information section fo
 - Mount your mt32-pi into the StarTech bay adapter and connect the 2.54mm pitch DuPont connectors to the panel header.
 
 ## Revision Notes
-Rev 1 2025-05-28 --- Remapped rotary encoder CW/CCW pins for proper volume up/down when physically turned. This version has been tested and is 100% functional. 
+Rev 1 2025-05-28 --- Remapped rotary encoder CW/CCW pins for proper volume up/down when physically turned. \
 Rev 0 2025-05-03 --- Cleaned up assembly instructions, added knob to other BOM items section.
 
 ## License
