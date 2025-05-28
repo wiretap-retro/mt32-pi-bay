@@ -35,7 +35,8 @@ Please read the original mt32-pi repository linked in the information section fo
 - Mount your mt32-pi into the StarTech bay adapter and connect the 2.54mm pitch DuPont connectors to the panel header.
 
 ## Revision Notes
-2025-05-03 --- Cleaned up assembly instructions, added knob to other BOM items section.
+Rev 1 2025-05-28 --- Remapped rotary encoder CW/CCW pins for proper volume up/down when physically turned.
+Rev 0 2025-05-03 --- Cleaned up assembly instructions, added knob to other BOM items section.
 
 ## License
 This project uses the UNLICENSE. Feel free to do what you want with it. Check over the project before ordering. Build at your own risk.
