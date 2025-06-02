@@ -37,7 +37,7 @@ Please read the original mt32-pi repository linked in the information section fo
 - Mount your mt32-pi into the StarTech bay adapter and connect the 2.54mm pitch DuPont connectors to the panel header.
 
 ## 1U Case and Parts (optional)
-Athena Power 1U with 5.25" Bay - http://athenapower.com/product/ipc-rackmount-chassis/1u-itx-rackmount/rm-1uc138 (other 1U models may work as well) \
+Athena Power 1U Short-Depth Server Chassis with 5.25" Bay - http://athenapower.com/product/ipc-rackmount-chassis/1u-itx-rackmount/rm-1uc138 (other 1U models may work as well) \
 Canakit 3.5A Power Supply - https://www.amazon.com/dp/B07TYQRXTK \
 IEC320 Power Connector - https://www.amazon.com/dp/B085BQ3NWD \
 SPST Blue Rocker Switch - https://www.amazon.com/dp/B08YN7Z9Y3 \
