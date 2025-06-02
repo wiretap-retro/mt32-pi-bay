@@ -36,6 +36,16 @@ Please read the original mt32-pi repository linked in the information section fo
 - Allow a dry time of 24hrs so the PCB fully cures to the bay adapter face.
 - Mount your mt32-pi into the StarTech bay adapter and connect the 2.54mm pitch DuPont connectors to the panel header.
 
+## 1U Case and Parts (optional)
+Athena Power 1U with 5.25" Bay - http://athenapower.com/product/ipc-rackmount-chassis/1u-itx-rackmount/rm-1uc138 \
+Canakit 3.5A Power Supply - https://www.amazon.com/dp/B07TYQRXTK \
+IEC320 Power Connector - https://www.amazon.com/dp/B085BQ3NWD \
+SPST Blue Rocker Switch - https://www.amazon.com/dp/B08YN7Z9Y3 \
+5V Blue Fans - https://www.amazon.com/dp/B084RCBSBX \
+USB to 5V Fan Adapter - https://www.amazon.com/dp/B09HGLN7CX \
+USB to DuPont Interal Connectors - https://www.ebay.com/itm/391937393112 \
+
+
 ## Finished Product
 
 ![front2](front-real.png)
