@@ -3,8 +3,7 @@ A 5.25" bay panel overlay to control the mt32-pi.
 \
 \
 ![front](front.png)
-\
-![front2](front-real.png)
+
 ## Info
 The core project design is attributed to Dale Whinham and his awesome mt32-pi project. Repo link: https://github.com/dwhinham/mt32-pi
 \
@@ -37,6 +36,12 @@ Please read the original mt32-pi repository linked in the information section fo
 - Allow a dry time of 24hrs so the PCB fully cures to the bay adapter face.
 - Mount your mt32-pi into the StarTech bay adapter and connect the 2.54mm pitch DuPont connectors to the panel header.
 
+## Finished Product
+
+![front2](front-real.png)
+\
+![front3](front-working.jpg)
+\
 ## Revision Notes
 Rev 1 2025-05-28 --- Remapped rotary encoder CW/CCW pins for proper volume up/down when physically turned. \
 Rev 0 2025-05-03 --- Cleaned up assembly instructions, added knob to other BOM items section.
