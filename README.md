@@ -43,7 +43,9 @@ IEC320 Power Connector - https://www.amazon.com/dp/B085BQ3NWD \
 SPST Blue Rocker Switch - https://www.amazon.com/dp/B08YN7Z9Y3 \
 5V Blue Fans - https://www.amazon.com/dp/B084RCBSBX \
 USB to 5V Fan Adapter - https://www.amazon.com/dp/B09HGLN7CX \
-USB to DuPont Interal Connectors - https://www.ebay.com/itm/391937393112 
+USB to DuPont Interal Connectors - https://www.ebay.com/itm/391937393112 \
+3D Printable IEC to Flex-ATX adapter - https://www.thingiverse.com/thing:7041659 \
+3D Printable Canakit Power Supply Enclosure - https://www.thingiverse.com/thing:7052683
 
 
 ## Finished Product
