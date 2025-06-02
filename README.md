@@ -42,6 +42,12 @@ Please read the original mt32-pi repository linked in the information section fo
 \
 ![front3](front-working.jpg)
 \
+![front4](rack-inside.jpg)
+\
+![front5](wired.jpg)
+\
+![front6](rack.jpg)
+\
 ## Revision Notes
 Rev 1 2025-05-28 --- Remapped rotary encoder CW/CCW pins for proper volume up/down when physically turned. \
 Rev 0 2025-05-03 --- Cleaned up assembly instructions, added knob to other BOM items section.
